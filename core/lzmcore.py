@@ -13,9 +13,10 @@ lazymux_banner = """
                     .-. :                     
                     `._.'                     
 
-                              - provided by Kuljit Sah
-
-
+                              --- Anonymous Hack47 ---
+                                   --- v1.0.1 ---
+ - provided by Kuljit Sah
+                                          
 """
 backtomenu_banner = """
   [99] Back to main menu
