@@ -13,9 +13,9 @@ lazymux_banner = """
                     .-. :                     
                     `._.'                     
 
-                              --- Anonymous Hack47 ---
-                                   --- v1.0.1 ---
- - provided by Kuljit Sah
+                        --- Anonymous Hack47 ---
+                             --- v1.0.1 ---
+- Script by Kuljit Sah
                                           
 """
 backtomenu_banner = """
