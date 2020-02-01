@@ -10,10 +10,10 @@ pkg i git python -y
 git clone https://github.com/anonymoushack47/Lazymux
 ```
 ```
-cd Ter-Kali
+cd Lazymux
 ```
 ```
-python lazymux.py
+python terkali.py
 ```
 
 ### Contact Me
