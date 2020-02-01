@@ -4,6 +4,9 @@ Lazymux tools installer is very easy to use, only provided for lazy termux users
 
 #### Installation and Using Lazymux
 ```
+pkg i git python -y
+```
+```
 git clone https://github.com/anonymoushack47/Lazymux
 ```
 ```
