@@ -1,15 +1,21 @@
-# New-Keyboard
-
 # Anonymous Hack47
+# Lazymux
+Lazymux tools installer is very easy to use, only provided for lazy termux users.
 
-# Steps :
-  1) pkg install git python -y
-  2) git clone https://github.com/anonymoushack47/New-Keyboard
-  3) cd New-Keyboard
-  4) ls
-  5) python keyboard.py
-  6) exit
+#### Installation and Using Lazymux
+```
+git clone https://github.com/anonymoushack47/Lazymux
+```
+```
+cd Lazymux
+```
+```
+python lazymux.py
+```
 
-After exiting start termux again.
+### Contact Me
+Twitter   : https://twitter.com/anonymoushack47
+Facebook : https://fb.com/anonymoushack47
+Instagram: https://instagram.com/anonymoushack47
 
 # Kuljit Sah
