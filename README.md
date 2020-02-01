@@ -7,7 +7,7 @@ Lazymux tools installer is very easy to use, only provided for lazy termux users
 pkg i git python -y
 ```
 ```
-git clone https://github.com/anonymoushack47/Lazymux
+git clone https://github.com/anonymoushack47/Ter-Kali
 ```
 ```
 cd Ter-Kali
