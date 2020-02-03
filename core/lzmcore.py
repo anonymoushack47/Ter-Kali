@@ -18,7 +18,7 @@ lazymux_banner = """
 """
 backtomenu_banner = """
   [99] Back to main menu
-  [00] Exit the Lazymux
+  [00] Exit the TerKali
 """
 def restart_program():
 	python = sys.executable
