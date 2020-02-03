@@ -16,7 +16,7 @@ def main():
 	print("   [06] Exploitation Tools")
 	print("   [07] Sniffing & Spoofing")
 	print("   [08] Other\n")
-	print("   [10] Exit the Lazymux\n")
+	print("   [10] Exit the TerKali\n")
 	lazymux = input("lzmx > ")
 	
 	if lazymux.strip() == "1" or lazymux.strip() == "01":
