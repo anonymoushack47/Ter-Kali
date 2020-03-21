@@ -6,7 +6,7 @@ Lazymux tools installer is very easy to use, only provided for lazy termux users
 #### Installation and Use of Lazymux
 ```
 Watch 👀 video 🎥📹📼 till end. 
-Link 🔗 :=> https://youtu.be/uY8dBlaTku8
+Link 🔗 https://youtu.be/uY8dBlaTku8
 ```
 
 ### Contact Me
