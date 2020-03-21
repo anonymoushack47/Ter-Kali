@@ -3,18 +3,10 @@
 # Lazymux
 Lazymux tools installer is very easy to use, only provided for lazy termux users.
 
-#### Installation and Using Lazymux
+#### Installation and Use of Lazymux
 ```
-pkg i git python -y
-```
-```
-git clone https://github.com/anonymoushack47/Ter-Kali
-```
-```
-cd Ter-Kali
-```
-```
-python terkali.py
+Watch 👀 video 🎥📹📼 till end. 
+Link 🔗 :=> https://youtu.be/uY8dBlaTku8
 ```
 
 ### Contact Me
