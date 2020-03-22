@@ -7,7 +7,7 @@ Lazymux tools installer is very easy to use, only provided for lazy termux users
 ```
 Watch 👀 video 🎥📹📼 till end. 
 ```
-### Link 🔗:=> https://youtu.be/uY8dBlaTku8
+### Video 🎥📼📹 Link 🔗:=> https://youtu.be/uY8dBlaTku8
 
 ### Contact Me
 Twitter   : https://twitter.com/anonymoushack47
